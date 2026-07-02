@@ -1,5 +1,6 @@
 # ChatAI (Flutter + Groq)
 
+
 Application multiplateforme (Android, iOS, web, Windows, macOS, Linux) simple type "ChatGPT" en Flutter, propulsée par l'API gratuite de Groq (modèles Llama).
 
 ## Mise en route (sur une machine avec Flutter installé)
