@@ -1,5 +1,6 @@
 # Séance 2 - Jetpack Compose & Kotlin Multiplateforme
 
+
 Ce dossier regroupe les travaux pratiques de la séance 2 du module **Développement Mobile** (ENSET), portant sur les activités Android (cycle de vie, gestion des événements, navigation entre activités) et une introduction à Jetpack Compose.
 
 Support de cours : [`Dév_Mobile_Natif_Partie2.pdf`](./Dév_Mobile_Natif_Partie2.pdf)
